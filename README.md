@@ -2,10 +2,12 @@
 
 **Full Stack Developer (FastAPI | Python | React | Cloud | Distributed Systems)**
 Bhagalpur, Bihar, India  
-📧 **Email:** [singhkunj007@gmail.com](mailto:singhkunj007@gmail.com)  
-🔗 **LinkedIn:** [https://www.linkedin.com/in/kunj-bihari-6461402a6/](https://www.linkedin.com/in/kunj-bihari-6461402a6/)  
-🐙 **GitHub:** [https://github.com/Bornstranger](https://github.com/Bornstranger)  
-🌐 **Portfolio:** [https://portfolio-kunjbihari.netlify.app/](https://portfolio-kunjbihari.netlify.app/)
+<p>
+  <a href="mailto:singhkunj007@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/kunj-bihari-6461402a6/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+  <a href="https://github.com/Bornstranger"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="github"/></a>
+  <a href="https://portfolio-kunjbihari.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-4CAF50?style=flat-square&logo=googlechrome&logoColor=white" alt="portfolio"/></a>
+</p>
 
 ---
 
@@ -129,5 +131,12 @@ My core strengths:
 📧 **Email:** [singhkunj007@gmail.com](mailto:singhkunj007@gmail.com)  
 🔗 **LinkedIn:** [https://www.linkedin.com/in/kunj-bihari-6461402a6/](https://www.linkedin.com/in/kunj-bihari-6461402a6/)  
 🐙 **GitHub:** [https://github.com/Bornstranger](https://github.com/Bornstranger)
+<p>
+  <a href="mailto:singhkunj007@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/kunj-bihari-6461402a6/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+  <a href="https://github.com/Bornstranger"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="github"/></a>
+</p>
 
 ---
+
+If you want a different dark theme variant or additional imagery, tell me which style you prefer.
