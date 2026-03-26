@@ -13,7 +13,7 @@ Bhagalpur, Bihar, India
 
 **About Me**
 
-I’m a passionate **Full Stack Developer** focused on building scalable, high-performance backend systems and clean, interactive frontends. I enjoy solving real-world problems with reliable, production-ready code and pragmatic architecture.
+I’m a **Full Stack Developer** focused on building scalable, high-performance backend systems and clean, interactive frontends. I enjoy solving real-world problems with reliable, production-ready code and pragmatic architecture.
 
 My core strengths:
 
