@@ -138,5 +138,3 @@ My core strengths:
 </p>
 
 ---
-
-If you want a different dark theme variant or additional imagery, tell me which style you prefer.
