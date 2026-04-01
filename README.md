@@ -1,4 +1,5 @@
-👋 Hi, I'm ***Kunj Bihari***
+👋 Hi, I'm 
+# Kunj Bihari
 
 **Full Stack Developer (FastAPI | Python | React | Cloud | Distributed Systems)**
 Bhagalpur, Bihar, India  
